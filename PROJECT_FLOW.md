@@ -587,13 +587,13 @@ Phase D: Validation & Scheduling
 
 | Phase | Duration | Complexity |
 |-------|----------|------------|
-| Phase A (HANA Setup) | 30-45 minutes | Medium |
-| Phase B (Synapse Setup) | 30-45 minutes | Medium |
-| Phase C (Fivetran Config) | 20-30 minutes | Easy |
-| Phase D (Validation) | 15-20 minutes | Easy |
-| **Total** | **~2 hours** | **Medium** |
+| Phase A (HANA Setup) | 2.5 months | Medium |
+| Phase B (Synapse Setup) | 2 months | Medium |
+| Phase C (Fivetran Config) | 2 months | Easy |
+| Phase D (Validation) | 2.5 months | Easy |
+| **Total** | **9 months** | **Medium** |
 
-*Note: Timeline assumes familiarity with platforms and no major troubleshooting required*
+*Note: Project runs from February 2025 to October 2025*
 
 ---
 
@@ -665,6 +665,7 @@ The solution provides a foundation for expanding to more complex data integratio
 
 **Project Status:** ✅ Successfully Completed  
 **Implementation Date:** October 2025  
+**Project Duration:** February 2025 - October 2025 (9 months)  
 **Implemented By:** Research Student (9 months experience)  
 **Organization:** Contractor Research Initiative
 

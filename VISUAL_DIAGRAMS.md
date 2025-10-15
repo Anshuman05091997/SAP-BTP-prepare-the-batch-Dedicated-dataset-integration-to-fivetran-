@@ -59,32 +59,32 @@ graph TB
 
 ```mermaid
 gantt
-    title Project Implementation Timeline
+    title Project Implementation Timeline (9 Months: Feb 2025 - Oct 2025)
     dateFormat YYYY-MM-DD
     section Phase A: HANA Setup
-    Access Database Explorer      :a1, 2025-01-01, 10m
-    Create TRAINING Schema        :a2, after a1, 5m
-    Create 6 Tables              :a3, after a2, 10m
-    Import CSV Data              :a4, after a3, 15m
-    Validate Data                :a5, after a4, 5m
-    Create Service Account       :a6, after a5, 5m
+    Access Database Explorer      :a1, 2025-02-01, 30d
+    Create TRAINING Schema        :a2, after a1, 15d
+    Create 6 Tables              :a3, after a2, 30d
+    Import CSV Data              :a4, after a3, 45d
+    Validate Data                :a5, after a4, 15d
+    Create Service Account       :a6, after a5, 15d
     
     section Phase B: Synapse Setup
-    Create Synapse Workspace     :b1, 2025-01-01, 10m
-    Create SQL Pool              :b2, after b1, 15m
-    Create Service Account       :b3, after b2, 5m
-    Configure Firewall           :b4, after b3, 5m
+    Create Synapse Workspace     :b1, 2025-03-15, 30d
+    Create SQL Pool              :b2, after b1, 30d
+    Create Service Account       :b3, after b2, 15d
+    Configure Firewall           :b4, after b3, 15d
     
     section Phase C: Fivetran Config
-    Add Synapse Destination      :c1, after b4, 10m
-    Add HANA Connector           :c2, after c1, 10m
-    Select Tables                :c3, after c2, 5m
-    Initial Sync                 :c4, after c3, 5m
+    Add Synapse Destination      :c1, after b4, 30d
+    Add HANA Connector           :c2, after c1, 30d
+    Select Tables                :c3, after c2, 15d
+    Initial Sync                 :c4, after c3, 15d
     
     section Phase D: Validation
-    Verify Data in Synapse       :d1, after c4, 5m
-    Configure Schedule           :d2, after d1, 3m
-    Create Reporting Views       :d3, after d2, 10m
+    Verify Data in Synapse       :d1, after c4, 15d
+    Configure Schedule           :d2, after d1, 15d
+    Create Reporting Views       :d3, after d2, 45d
 ```
 
 ---
@@ -763,5 +763,6 @@ DIAGRAM SYMBOLS USED
 
 **Created for:** Research Student (9 months experience)  
 **Project:** SAP BTP to Azure Synapse Integration via Fivetran  
+**Project Duration:** February 2025 - October 2025 (9 months)  
 **Last Updated:** October 2025
 

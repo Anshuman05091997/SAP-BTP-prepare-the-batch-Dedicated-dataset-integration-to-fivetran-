@@ -567,6 +567,7 @@ ENVIRONMENT SETUP (ASCII)
 ---
 
 **Document Version:** 1.0  
+**Project Duration:** February 2025 - October 2025 (9 months)  
 **Last Updated:** October 2025  
 **Author:** Research Student (9 months experience)
 
